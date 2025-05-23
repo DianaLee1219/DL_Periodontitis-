@@ -39,6 +39,6 @@ The system integrates multiple components:
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/periodontitis-ai.git
-cd periodontitis-ai
+git clone https://github.com/DianaLee1219/periodontitis-AI.git
+cd periodontitis-AI
 pip install -r requirements.txt
